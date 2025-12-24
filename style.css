@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid rgba(84, 76, 76, 0.924);
+}
+
+
+.dob{
+    margin-left: 300px;
+}
+
+.top{
+    padding: 15px;
+    background-color: #2f6fa7;
+}
+.top a{
+    text-decoration: none;
+    color: white;
+}
+
+.reg-text{
+    background-color: #f6f5f5;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.headtext{
+    background-color: #4184bf;
+    color: white;
+    padding: 5px;
+}
+.section{
+    margin-bottom: 25px;
+}
+.row-group{
+    display: flex;
+    gap: 15px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.field{
+    flex: 1;
+}
+
+.container2{
+    display: flex;
+    margin-top: 20px;
+    line-height: 160%;
+}
+
+
+.secon{
+    /* margin-top: 50px; */
+    margin-left: 700px;
+}
+
+input{
+    height: 20px;
+
+}
+
+.field2{
+    display: flex;
+}
+
+.third{
+    display: flex;
+    justify-content: space-around;
+}
+
+.text2{
+    height: 10%;
+}
+.container4{
+    display: flex;
+}
+
+.checkboxes{
+    line-height: 150%;
+    margin-left: 50px;
+} 
+
+.field-end{
+    margin-left: 420px;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1;
+    border-top: 1px solid #d8cbcbe7;
+}
+
