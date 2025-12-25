@@ -69,7 +69,6 @@
 
 input{
     height: 20px;
-
 }
 
 .field2{
@@ -104,3 +103,38 @@ hr{
     border-top: 1px solid #d8cbcbe7;
 }
 
+.container-end{
+    width: 45%;
+    height: 250px;
+    border: 1px solid #4184bf;
+    border-radius: 4px;
+}
+.lng-title{
+    width: 98.2%;
+    background-color: #4184bf;
+    border: 1px solid #4184bf;
+    color: white;
+    padding: 5px;
+}
+
+.lng-title h4{
+    display: flex;
+    margin-left: 10px;
+}
+
+.label-main{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80px;
+}
+
+.lang-group{
+    margin-top: 25px;
+    margin-left: 115px;
+    height:fit-content;
+    width: fit-content;
+}
+
+#cb-row1{
+    margin-left: 90px;
+}
